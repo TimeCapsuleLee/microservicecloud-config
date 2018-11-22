@@ -43,7 +43,6 @@ info:
   company.name: www.atguigu.com
   build.artifactId: $project.artifactId$
   build.version: $project.version$
-  build.version: $project.version$
   
 ---
 
@@ -84,5 +83,4 @@ info:
   app.name: atguigu-microservicecloud-springcloudconfig01
   company.name: www.atguigu.com
   build.artifactId: $project.artifactId$
-  build.version: $project.version$
   build.version: $project.version$
